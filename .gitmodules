@@ -1,0 +1,3 @@
+[submodule "server/lib/doctrine2"]
+	path = server/lib/doctrine2
+	url = git://github.com/doctrine/doctrine2.git
